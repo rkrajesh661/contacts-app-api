@@ -1,0 +1,17 @@
+# Ignore bin and obj directories from anywhere
+**/bin/
+**/obj/
+
+# Ignore .vs directory (Visual Studio folder)
+**/.vs/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.idea/
+
+# Other common files to ignore
+*.log
+*.bak
